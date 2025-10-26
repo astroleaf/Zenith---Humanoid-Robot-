@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "robot_id": "Humanoid_01",
+    "map_reference": "lab_test_floor",
+    "log_date": "2025-10-26T23:56:00Z"
+  },
+  "state_estimates": [
+    {
+      "timestamp": 1730000001,
+      "position": {"x": 0.0, "y": 0.0},
+      "orientation": 0.0,
+      "covariance": [[0.01, 0.0], [0.0, 0.01]],
+      "imu_tilt": 0.2,
+      "ultrasonic_distance": 45.0
+    },
+    {
+      "timestamp": 1730000005,
+      "position": {"x": 0.5, "y": 0.02},
+      "orientation": 0.03,
+      "covariance": [[0.012, 0.001], [0.001, 0.013]],
+      "imu_tilt": 0.25,
+      "ultrasonic_distance": 39.5
+    },
+    {
+      "timestamp": 1730000010,
+      "position": {"x": 1.25, "y": 0.17},
+      "orientation": 0.11,
+      "covariance": [[0.016, 0.002], [0.002, 0.015]],
+      "imu_tilt": 0.30,
+      "ultrasonic_distance": 60.0
+    },
+    {
+      "timestamp": 1730000015,
+      "position": {"x": 2.00, "y": 0.57},
+      "orientation": 0.10,
+      "covariance": [[0.018, 0.002], [0.002, 0.018]],
+      "imu_tilt": 0.35,
+      "ultrasonic_distance": 74.0
+    }
+  ],
+  "summary": {
+    "average_speed": 0.12,
+    "max_distance_from_origin": 2.1,
+    "path_length": 2.30,
+    "gps_accuracy_est": 0.03
+  }
+}

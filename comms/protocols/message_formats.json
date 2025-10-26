@@ -1,0 +1,10 @@
+{
+  "commands": [
+    {"name": "MOVE_FORWARD", "args": ["speed"]},
+    {"name": "MOVE_BACKWARD", "args": ["speed"]},
+    {"name": "TURN_LEFT", "args": ["speed"]},
+    {"name": "TURN_RIGHT", "args": ["speed"]},
+    {"name": "STOP", "args": []}
+  ],
+  "response_format": "ACK <command>"
+}

@@ -1,0 +1,6 @@
+{
+  "navigation_accuracy": 0.92,
+  "average_response_time_ms": 120,
+  "battery_low_warnings": 3,
+  "emergency_stops": 1
+}

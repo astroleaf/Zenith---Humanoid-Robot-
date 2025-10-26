@@ -1,0 +1,4 @@
+MachinaScript Specification Document
+- JSON based scripting language
+- Actions list with skill references and parameters
+- Enables scripted humanoid behaviors interfaced with AI

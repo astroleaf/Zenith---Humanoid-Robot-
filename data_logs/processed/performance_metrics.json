@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "log_session": "session_20251026_01",
+    "robot_name": "Humanoid_01",
+    "environment": "lab_test_zone",
+    "duration_sec": 320
+  },
+  "performance_metrics": {
+    "motor_efficiency": 0.91,
+    "average_power_consumption_watts": 24.5,
+    "battery_drain_rate_per_min": 0.8,
+    "navigation_success_rate": 0.94,
+    "average_latency_ms": 118,
+    "emergency_stops_triggered": 2,
+    "obstacle_avoidance_accuracy": 0.97
+  },
+  "sensor_fusion": {
+    "mean_imu_variance": 0.0031,
+    "ultrasonic_error_margin_cm": 1.4,
+    "temperature_variation_c": 0.6
+  },
+  "ai_pipeline": {
+    "fps_mean": 28.4,
+    "fps_min": 23.7,
+    "fps_max": 30.1,
+    "total_inference_ms": 11820
+  },
+  "notes": "Slight lag detected when gesture recognition and obstacle detection overlap."
+}

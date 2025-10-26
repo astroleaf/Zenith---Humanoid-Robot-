@@ -1,0 +1,7 @@
+{
+  "actions": [
+    {"skill": "blink_led", "params": {"duration": 1}},
+    {"skill": "wave_hand", "params": {"times": 2}},
+    {"skill": "capture_photo", "params": {}}
+  ]
+}

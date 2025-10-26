@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "robot_id": "Humanoid_01",
+    "test_run_id": "session_20251026_01",
+    "log_generated_at": "2025-10-26T23:57:00Z"
+  },
+  "inference_summary": {
+    "total_frames_processed": 1250,
+    "avg_fps": 28.4,
+    "object_detections": 386,
+    "gesture_predictions": 42,
+    "face_tracks_detected": 78
+  },
+  "detection_samples": [
+    {
+      "timestamp": 1730000012.05,
+      "frame_id": 12,
+      "detected_objects": [
+        {"label": "person", "confidence": 0.93, "x": 128, "y": 40, "width": 85, "height": 182},
+        {"label": "chair", "confidence": 0.84, "x": 315, "y": 200, "width": 100, "height": 110}
+      ],
+      "gesture": {"type": "wave", "confidence": 0.88},
+      "faces": [{"x": 142, "y": 34, "w": 90, "h": 90}]
+    },
+    {
+      "timestamp": 1730000030.10,
+      "frame_id": 450,
+      "detected_objects": [
+        {"label": "bottle", "confidence": 0.71, "x": 180, "y": 220, "width": 30, "height": 90}
+      ],
+      "gesture": {"type": "none", "confidence": 0.0},
+      "faces": []
+    }
+  ],
+  "summary": {
+    "mean_detection_confidence": 0.84,
+    "avg_gesture_confidence": 0.77,
+    "false_positives_est": 4.5,
+    "success_rate_frames": 96.2
+  }
+}
