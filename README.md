@@ -1,5 +1,8 @@
 include/# Humanoid Robot AI/ML Project
 
+
+![Alt text](images/20241107-WA0007.jpg)
+
 ## Overview
 This project integrates hardware control (Arduino) with AI/ML perception and cognition (SBC + Python) to build a fully functional humanoid robot. It supports motor control, sensor reading, AI-guided behavior, and safety monitoring.
 
@@ -35,3 +38,4 @@ MIT License
 
 ## Contact
 For queries and collaboration, contact [Your Email].
+
