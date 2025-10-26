@@ -1,5 +1,10 @@
-include/# Humanoid Robot AI/ML Project
+Humanoid Robot AI/ML Project
 
+![WhatsApp Image 2025-10-27 at 00 18 13_5ef50361](https://github.com/user-attachments/assets/9a720a4e-9cc1-4e36-a292-9ce4ff601c9d)
+
+![WhatsApp Image 2025-10-27 at 00 18 14_ed6219e1](https://github.com/user-attachments/assets/0ec3cd1a-af9b-4ef7-a64c-095bb585645b)
+
+![WhatsApp Image 2025-10-27 at 00 18 14_d90d4b1d](https://github.com/user-attachments/assets/18a71bd8-8ff1-41b7-99e1-d192e46282ae)
 
 ![IMG-20241107-WA0007](https://github.com/user-attachments/assets/e60ebf81-c205-4f5a-98f1-e8d59d1137a4)
 
@@ -42,5 +47,6 @@ MIT License
 
 ## Contact
 For queries and collaboration, contact [Your Email].
+
 
 
