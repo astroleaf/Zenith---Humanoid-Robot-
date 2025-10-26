@@ -1,0 +1,17 @@
+#ifndef KALMAN_FILTER_H
+#define KALMAN_FILTER_H
+
+class KalmanFilter {
+  public:
+    KalmanFilter();
+    float update(float measuredAngle, float rate);
+  private:
+    float Q_angle;
+    float Q_bias;
+    float R_measure;
+    float angle;
+    float bias;
+    float P[2][2];
+};
+
+#endif
